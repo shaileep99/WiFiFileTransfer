@@ -108,10 +108,3 @@ sudo apt update
 sudo apt install gcc libssl-dev
 ```
 
----
-
-## Team Members
-- **Chirag Durlabhbhai Jethwa, B00982284**
-- **Pratik Lalit Veera, B00953724**
-- **Prerana Mukherjee, B01020606**
-- **Shailee Manojkumar Patel, B01036938**
